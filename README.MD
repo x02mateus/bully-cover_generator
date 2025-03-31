@@ -6,8 +6,9 @@
 <img alt="Contribuidores" src="https://img.shields.io/github/contributors/x02mateus/bully_cover_generator">
 </p>
 
-A little Python script that i made that generates Ye's Bully cover. That is ugly and simple btw.
+
 <p align="center" width="100%">
+    A little Python script that i made that generates Ye's Bully cover. That is ugly and simple btw.
     <img width="33%" src="readme/bully_full_cover_512.png">
     <img width="33%" src="readme/bully_cover_text_512.png">
 </p>
