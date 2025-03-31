@@ -1,9 +1,9 @@
 # BULLY TEXT and COVER GENERATOR
 
 <p align="center">
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/x02mateus/bully_cover_generator">
-<img alt="Commits frequency" src="https://img.shields.io/github/commit-activity/w/x02mateus/bully_cover_generator">
-<img alt="contributors" src="https://img.shields.io/github/contributors/x02mateus/bully_cover_generator">
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/x02mateus/bully-cover_generator">
+<img alt="Commits frequency" src="https://img.shields.io/github/commit-activity/w/x02mateus/bully-cover_generator">
+<img alt="contributors" src="https://img.shields.io/github/contributors/x02mateus/bully-cover_generator">
 </p>
 
 
